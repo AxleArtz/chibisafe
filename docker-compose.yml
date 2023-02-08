@@ -28,13 +28,13 @@ services:
             SECRET: #"wowfcgMHqZHwOIMLadWrKu3liyqPOOILpDLSDvuxq3YGhJmiZXJCVpnF96l11WfR" <--- "openssl rand -base64 32" To Generate.
             MAX_LINKS_PER_ALBUM: 5
             META_THEME_COLOR: "#20222b"
-            META_DESCRIPTION: "Blazing fast file uploader edited by @rapphy243!🚀"
+            META_DESCRIPTION: "Blazing fast file uploader edited by @axleartsmlp!🚀"
             META_KEYWORDS: "chibisafe,upload,uploader,file,vue,images,ssr,file uploader"
-            META_TWITTER_HANDLE: "@rapphy243"
+            META_TWITTER_HANDLE: "@axleartsmlp"
             BLOCKED_EXTENSIONS: ".msi"
             SERVER_PORT: 5000
-            DOMAIN: "https://safe.rapph.dev" #Change this to the domain you are hosting this on or you will get network errors when trying to login.
-            SERVICE_NAME: rapphsafe
+            DOMAIN: "https://chi.snoot.axleartz.com" #Change this to the domain you are hosting this on or you will get network errors when trying to login.
+            SERVICE_NAME: axleartsafe
             MAX_SIZE: 72727
             GENERATE_THUMBNAILS: "true"
             GENERATE_ZIPS: "true"
